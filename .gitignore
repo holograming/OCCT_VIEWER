@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+build/
+ext/
+# Foldername for build
